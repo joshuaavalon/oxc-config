@@ -2,7 +2,10 @@
   "name": "@joshuaavalon/oxc-config",
   "version": "1.0.0",
   "description": "Shareable oxfmt and oxlint config.",
-  "keywords": [],
+  "keywords": [
+    "oxfmt",
+    "oxlint"
+  ],
   "homepage": "https://github.com/joshuaavalon/oxc-config#readme",
   "bugs": {
     "url": "https://github.com/joshuaavalon/oxc-config/issues"
@@ -13,6 +16,9 @@
     "type": "git",
     "url": "git+https://github.com/joshuaavalon/oxc-config.git"
   },
+  "files": [
+    "dist"
+  ],
   "type": "module",
   "exports": {
     "./fmt": "./dist/fmt/index.js",
