@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/joshuaavalon/oxc-config/compare/v1.0.0...v1.1.0) (2026-07-15)
+
+
+### Features
+
+* Add react rules ([2eb64c2](https://github.com/joshuaavalon/oxc-config/commit/2eb64c212b40a277e395e2479e1f3730b37558e9))
+
+
+### Bug Fixes
+
+* Add files to package.json ([ddfeac5](https://github.com/joshuaavalon/oxc-config/commit/ddfeac5f27f17e87fa8cbebaa03c357380a8a7f0))
+
 ## 1.0.0 (2026-07-15)
 
 
