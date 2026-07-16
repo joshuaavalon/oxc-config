@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.4](https://github.com/joshuaavalon/oxc-config/compare/v1.2.3...v1.2.4) (2026-07-16)
+
+
+### Bug Fixes
+
+* Change stylistic/function-paren-newline to prevent oxfmt conflict ([f3c01af](https://github.com/joshuaavalon/oxc-config/commit/f3c01af2181971474482e748ff7cccfd9ae83293))
+* Exclude export from no-duplicate-imports ([ec784c0](https://github.com/joshuaavalon/oxc-config/commit/ec784c00e606ba0f365e4afd81dfa35f95a49267))
+* Relax await for some api ([f230e0b](https://github.com/joshuaavalon/oxc-config/commit/f230e0b89c123ac029ed29ca89a2fbfd79cd22e4))
+* Relax imports ([07b305a](https://github.com/joshuaavalon/oxc-config/commit/07b305a7e0609bcc8cbf40ddf8beedadcb0cce0f))
+* Relax no-implicit-globals ([694d553](https://github.com/joshuaavalon/oxc-config/commit/694d55337a39bb7d5af28743c3f1d0164a47061c))
+* Relax unicorn/max-nested-calls ([ba3ca67](https://github.com/joshuaavalon/oxc-config/commit/ba3ca67ffe19cf204feb065532fe30bdb9dfc192))
+
 ## [1.2.3](https://github.com/joshuaavalon/oxc-config/compare/v1.2.2...v1.2.3) (2026-07-16)
 
 
