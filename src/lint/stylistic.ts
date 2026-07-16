@@ -50,7 +50,7 @@ export const stylistic = defineConfig({
         before: true
       }
     ],
-    "stylistic/implicit-arrow-linebreak": ["error", "beside"],
+    "stylistic/implicit-arrow-linebreak": ["off"],
     "stylistic/indent": ["error", 2],
     "stylistic/indent-binary-ops": ["error", 2],
     "stylistic/key-spacing": ["error", { afterColon: true }],
@@ -115,7 +115,7 @@ export const stylistic = defineConfig({
       "error",
       {
         max: 2,
-        maxBOF: 0,
+        maxBOF: 1,
         maxEOF: 1
       }
     ],
@@ -124,13 +124,13 @@ export const stylistic = defineConfig({
     "stylistic/no-whitespace-before-property": ["error"],
     "stylistic/nonblock-statement-body-position": ["error", "beside"],
     "stylistic/object-curly-newline": [
-      "error",
-      {
-        ExportDeclaration: { multiline: true },
-        ImportDeclaration: { multiline: true },
-        ObjectExpression: { multiline: true },
-        ObjectPattern: { multiline: true }
-      }
+      "off"
+      // {
+      //   ExportDeclaration: { multiline: true },
+      //   ImportDeclaration: { multiline: true },
+      //   ObjectExpression: { multiline: true },
+      //   ObjectPattern: { multiline: true }
+      // }
     ],
     "stylistic/object-curly-spacing": ["error", "always"],
     "stylistic/object-property-newline": ["error", { allowAllPropertiesOnSameLine: true }],

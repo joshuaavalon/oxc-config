@@ -61,7 +61,7 @@ export const react = defineConfig({
     "react/no-unsafe": ["error"],
     "react/no-unstable-nested-components": ["error"],
     "react/no-will-update-set-state": ["error"],
-    "react/only-export-components": ["error"],
+    "react/only-export-components": ["off"], // HOC false positive
     "react/prefer-es6-class": ["off"],
     "react/prefer-function-component": ["error"],
     "react/react-compiler": ["off"],

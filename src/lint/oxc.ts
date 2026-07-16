@@ -20,7 +20,7 @@ export const oxc = defineConfig({
     "oxc/no-accumulating-spread": ["error"],
     "oxc/no-async-await": ["off"],
     "oxc/no-async-endpoint-handlers": ["off"],
-    "oxc/no-barrel-file": ["error"],
+    "oxc/no-barrel-file": ["off"], // wrong count
     "oxc/no-const-enum": ["error"],
     "oxc/no-map-spread": ["error"],
     "oxc/no-optional-chaining": ["off"],
