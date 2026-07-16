@@ -4,7 +4,7 @@ export const stylistic = defineConfig({
   jsPlugins: [
     {
       name: "stylistic",
-      specifier: "stylistic/eslint-plugin"
+      specifier: "@stylistic/eslint-plugin"
     }
   ],
   rules: {
