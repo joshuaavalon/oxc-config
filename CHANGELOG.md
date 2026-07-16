@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/joshuaavalon/oxc-config/compare/v1.2.2...v1.2.3) (2026-07-16)
+
+
+### Bug Fixes
+
+* Fix react-perf/jsx-no-new-function-as-prop ([38543fc](https://github.com/joshuaavalon/oxc-config/commit/38543fc2b8eddf9d1bc959867355329d4338fa39))
+
 ## [1.2.2](https://github.com/joshuaavalon/oxc-config/compare/v1.2.1...v1.2.2) (2026-07-16)
 
 
