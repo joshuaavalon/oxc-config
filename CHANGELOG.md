@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/joshuaavalon/oxc-config/compare/v1.2.1...v1.2.2) (2026-07-16)
+
+
+### Bug Fixes
+
+* Fix stylistic specifier ([c304aad](https://github.com/joshuaavalon/oxc-config/commit/c304aad803690bc88f706710f2ad267721064f5a))
+
 ## [1.2.1](https://github.com/joshuaavalon/oxc-config/compare/v1.2.0...v1.2.1) (2026-07-16)
 
 
