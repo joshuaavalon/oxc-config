@@ -6,9 +6,9 @@ export const importCfg = defineConfig({
     "import/consistent-type-specifier-style": ["error", "prefer-top-level"],
     "import/default": ["error"],
     "import/export": ["error"],
-    "import/exports-last": ["error"],
+    "import/exports-last": ["off"],
     "import/extensions": ["error", "ignorePackages"],
-    "import/group-exports": ["error"],
+    "import/group-exports": ["off"],
     "import/max-dependencies": ["off"],
     "import/named": ["error"],
     "import/namespace": ["error"],
@@ -34,6 +34,6 @@ export const importCfg = defineConfig({
     "import/no-unassigned-import": ["off"],
     "import/no-webpack-loader-syntax": ["error"],
     "import/prefer-default-export": ["off"],
-    "import/unambiguous": ["error"]
+    "import/unambiguous": ["off"]
   }
 });
