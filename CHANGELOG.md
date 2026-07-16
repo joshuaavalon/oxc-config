@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.5](https://github.com/joshuaavalon/oxc-config/compare/v1.2.4...v1.2.5) (2026-07-16)
+
+
+### Bug Fixes
+
+* Relax more rules ([e90a152](https://github.com/joshuaavalon/oxc-config/commit/e90a152784fc4c1867621dc18e37297d4583fee9))
+* Relax more rules ([b60fae0](https://github.com/joshuaavalon/oxc-config/commit/b60fae0e8dd63e016dcccb166197ff9260e0cf11))
+
 ## [1.2.4](https://github.com/joshuaavalon/oxc-config/compare/v1.2.3...v1.2.4) (2026-07-16)
 
 
