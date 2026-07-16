@@ -42,7 +42,7 @@ export const stylistic = defineConfig({
     "stylistic/eol-last": ["error", "always"],
     "stylistic/function-call-argument-newline": ["error", "consistent"],
     "stylistic/function-call-spacing": ["error", "never"],
-    "stylistic/function-paren-newline": ["error", "consistent"],
+    "stylistic/function-paren-newline": ["off", "consistent"],
     "stylistic/generator-star-spacing": [
       "error",
       {
