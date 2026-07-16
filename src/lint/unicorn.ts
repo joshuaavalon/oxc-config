@@ -20,7 +20,7 @@ export const unicorn = defineConfig({
     "unicorn/import-style": ["off"],
     "unicorn/max-nested-calls": ["error", { max: 6 }],
     "unicorn/new-for-builtins": ["error"],
-    "unicorn/no-abusive-eslint-disable": ["error"],
+    "unicorn/no-abusive-eslint-disable": ["off"],
     "unicorn/no-accessor-recursion": ["error"],
     "unicorn/no-anonymous-default-export": ["error"],
     "unicorn/no-array-callback-reference": ["error"],

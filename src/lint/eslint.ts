@@ -201,7 +201,7 @@ export const eslint = defineConfig({
     "prefer-template": ["error"],
     radix: ["off"],
     // "require-atomic-updates": ["off"],
-    "require-await": ["error"],
+    "require-await": ["off"],
     "require-unicode-regexp": ["error"],
     "require-yield": ["error"],
     "sort-imports": ["off"],
