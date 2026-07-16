@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/joshuaavalon/oxc-config/compare/v1.2.0...v1.2.1) (2026-07-16)
+
+
+### Bug Fixes
+
+* Export stylistic ([2d0e1cf](https://github.com/joshuaavalon/oxc-config/commit/2d0e1cff504ecbcd406ef4fb6abd64cbf7de2856))
+
 ## [1.2.0](https://github.com/joshuaavalon/oxc-config/compare/v1.1.0...v1.2.0) (2026-07-16)
 
 
