@@ -16,7 +16,10 @@ export const unicorn = defineConfig({
     "unicorn/escape-case": ["error"],
     "unicorn/explicit-length-check": ["error"],
     "unicorn/explicit-timer-delay": ["error"],
-    "unicorn/filename-case": ["error", { case: "kebabCase" }],
+    "unicorn/filename-case": [
+      "error",
+      { case: "kebabCase", ignore: [String.raw`^routeTree\.gen\.ts$`] }
+    ],
     "unicorn/import-style": ["off"],
     "unicorn/max-nested-calls": ["error", { max: 6 }],
     "unicorn/new-for-builtins": ["error"],
@@ -47,7 +50,7 @@ export const unicorn = defineConfig({
     "unicorn/no-magic-array-flat-depth": ["error"],
     "unicorn/no-negated-condition": ["off"],
     "unicorn/no-negation-in-equality-check": ["error"],
-    "unicorn/no-nested-ternary": ["error"],
+    "unicorn/no-nested-ternary": ["off"],
     "unicorn/no-new-array": ["error"],
     "unicorn/no-new-buffer": ["error"],
     "unicorn/no-null": ["off"],

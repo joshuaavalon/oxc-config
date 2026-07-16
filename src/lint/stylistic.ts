@@ -216,7 +216,7 @@ export const stylistic = defineConfig({
     "stylistic/jsx-indent-props": ["error", 2],
     "stylistic/jsx-max-props-per-line": ["error", { maximum: 1, when: "multiline" }],
     "stylistic/jsx-newline": ["error", { allowMultilines: false, prevent: true }],
-    "stylistic/jsx-one-expression-per-line": ["error", { allow: "single-child" }],
+    "stylistic/jsx-one-expression-per-line": ["off", { allow: "single-child" }],
     "stylistic/jsx-pascal-case": ["error"],
     "stylistic/jsx-quotes": ["error", "prefer-double"],
     "stylistic/jsx-self-closing-comp": ["error", { component: true, html: true }],
