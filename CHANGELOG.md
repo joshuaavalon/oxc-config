@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.6](https://github.com/joshuaavalon/oxc-config/compare/v1.2.5...v1.2.6) (2026-07-16)
+
+
+### Bug Fixes
+
+* Disable conflict rules ([4230168](https://github.com/joshuaavalon/oxc-config/commit/4230168abba460adf468d9a1053d66951ce485a1))
+* Disable stylistic/no-extra-parens for conflict ([d483418](https://github.com/joshuaavalon/oxc-config/commit/d483418954def3adf5c7556f73ce24926a872653))
+
 ## [1.2.5](https://github.com/joshuaavalon/oxc-config/compare/v1.2.4...v1.2.5) (2026-07-16)
 
 
