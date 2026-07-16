@@ -98,13 +98,13 @@ export const stylistic = defineConfig({
     "stylistic/newline-per-chained-call": ["error", { ignoreChainWithDepth: 3 }],
     "stylistic/no-confusing-arrow": ["off"],
     "stylistic/no-extra-parens": [
-      "error",
-      "all",
-      {
-        enforceForFunctionPrototypeMethods: false,
-        ignoreJSX: "all",
-        nestedBinaryExpressions: false
-      }
+      "off"
+      // "all",
+      // {
+      //   enforceForFunctionPrototypeMethods: false,
+      //   ignoreJSX: "all",
+      //   nestedBinaryExpressions: false
+      // }
     ],
     "stylistic/no-extra-semi": ["error"],
     "stylistic/no-floating-decimal": ["error"],
