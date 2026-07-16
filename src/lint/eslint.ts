@@ -70,7 +70,7 @@ export const eslint = defineConfig({
     "no-dupe-else-if": ["error"],
     "no-dupe-keys": ["error"],
     "no-duplicate-case": ["error"],
-    "no-duplicate-imports": ["error", { allowSeparateTypeImports: true, includeExports: true }],
+    "no-duplicate-imports": ["error", { allowSeparateTypeImports: true, includeExports: false }],
     "no-else-return": ["error"],
     "no-empty": ["error"],
     "no-empty-character-class": ["error"],
