@@ -70,7 +70,7 @@ export const eslint = defineConfig({
     "no-dupe-else-if": ["error"],
     "no-dupe-keys": ["error"],
     "no-duplicate-case": ["error"],
-    "no-duplicate-imports": ["error"],
+    "no-duplicate-imports": ["error", { allowSeparateTypeImports: true, includeExports: true }],
     "no-else-return": ["error"],
     "no-empty": ["error"],
     "no-empty-character-class": ["error"],
@@ -88,7 +88,7 @@ export const eslint = defineConfig({
     "no-func-assign": ["error"],
     "no-global-assign": ["error"],
     "no-implicit-coercion": ["off"],
-    "no-implicit-globals": ["error"],
+    "no-implicit-globals": ["off"], // For Browser
     "no-implied-eval": ["error"],
     "no-import-assign": ["error"],
     "no-inline-comments": ["off"],
