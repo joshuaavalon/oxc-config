@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.7](https://github.com/joshuaavalon/oxc-config/compare/v1.2.6...v1.2.7) (2026-07-17)
+
+
+### Bug Fixes
+
+* Disable stylistic/operator-linebreak ([868daca](https://github.com/joshuaavalon/oxc-config/commit/868daca56930aa6665f2d6f6153bc171ecbf7a6a))
+* Fix configs ([d1e8f24](https://github.com/joshuaavalon/oxc-config/commit/d1e8f245b28b124025b6a6bd0ee20fe71b4c48ff))
+
 ## [1.2.6](https://github.com/joshuaavalon/oxc-config/compare/v1.2.5...v1.2.6) (2026-07-16)
 
 
