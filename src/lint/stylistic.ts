@@ -136,28 +136,28 @@ export const stylistic = defineConfig({
     "stylistic/object-property-newline": ["error", { allowAllPropertiesOnSameLine: true }],
     "stylistic/one-var-declaration-per-line": ["error", "always"],
     "stylistic/operator-linebreak": [
-      "error",
-      "before",
-      {
-        overrides: {
-          "-=": "after",
-          "??=": "after",
-          "**=": "after",
-          "*=": "after",
-          "/=": "after",
-          "&&=": "after",
-          "&=": "after",
-          "%=": "after",
-          "^=": "after",
-          "+=": "after",
-          "<<=": "after",
-          "=": "after",
-          ">>=": "after",
-          ">>>=": "after",
-          "|=": "after",
-          "||=": "after"
-        }
-      }
+      "off"
+      // "before",
+      // {
+      //   overrides: {
+      //     "-=": "after",
+      //     "??=": "after",
+      //     "**=": "after",
+      //     "*=": "after",
+      //     "/=": "after",
+      //     "&&=": "after",
+      //     "&=": "after",
+      //     "%=": "after",
+      //     "^=": "after",
+      //     "+=": "after",
+      //     "<<=": "after",
+      //     "=": "after",
+      //     ">>=": "after",
+      //     ">>>=": "after",
+      //     "|=": "after",
+      //     "||=": "after"
+      //   }
+      // }
     ],
     "stylistic/padded-blocks": ["error", "never"],
     "stylistic/padding-line-between-statements": ["off"],
