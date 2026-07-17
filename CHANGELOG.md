@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/joshuaavalon/oxc-config/compare/v1.2.7...v1.3.0) (2026-07-17)
+
+
+### Features
+
+* remove @stylistic/eslint-plugin ([94ed453](https://github.com/joshuaavalon/oxc-config/commit/94ed453ca9ac9de035fffea3e709fd486edcc44e))
+
 ## [1.2.7](https://github.com/joshuaavalon/oxc-config/compare/v1.2.6...v1.2.7) (2026-07-17)
 
 
