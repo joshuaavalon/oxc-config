@@ -17,7 +17,7 @@ const cfg = defineConfig({
     descriptionTag: false,
     descriptionWithDot: false,
     keepUnparsableExampleIndent: false,
-    lineWrappingStyle: "greedy",
+    lineWrappingStyle: "balance",
     preferCodeFences: false,
     separateReturnsFromParam: false,
     separateTagGroups: false

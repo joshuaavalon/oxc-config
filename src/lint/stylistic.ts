@@ -51,8 +51,8 @@ export const stylistic = defineConfig({
       }
     ],
     "stylistic/implicit-arrow-linebreak": ["off"],
-    "stylistic/indent": ["error", 2],
-    "stylistic/indent-binary-ops": ["error", 2],
+    "stylistic/indent": ["off"],
+    "stylistic/indent-binary-ops": ["off"],
     "stylistic/key-spacing": ["error", { afterColon: true }],
     "stylistic/keyword-spacing": [
       "error",
