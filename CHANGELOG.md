@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/joshuaavalon/oxc-config/compare/v1.3.0...v1.3.1) (2026-07-24)
+
+
+### Bug Fixes
+
+* Disable import/extensions for false positive ([ddea894](https://github.com/joshuaavalon/oxc-config/commit/ddea894732cb87ddcb84e50a53c10d860d074f5a))
+* Update dependencies ([4e8f61e](https://github.com/joshuaavalon/oxc-config/commit/4e8f61eee9b5fba642907506ad4b5d639fff7a4e))
+
 ## [1.3.0](https://github.com/joshuaavalon/oxc-config/compare/v1.2.7...v1.3.0) (2026-07-17)
 
 
