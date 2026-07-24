@@ -7,7 +7,9 @@ export const importCfg = defineConfig({
     "import/default": ["error"],
     "import/export": ["error"],
     "import/exports-last": ["off"],
-    "import/extensions": ["error", "ignorePackages"],
+    // False Positive
+    "import/extensions": ["off"],
+    // "import/extensions": ["error", "ignorePackages"],
     "import/group-exports": ["off"],
     "import/max-dependencies": ["off"],
     "import/named": ["error"],
