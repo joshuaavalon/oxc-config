@@ -14,10 +14,7 @@ export const react = defineConfig({
     "react/hook-use-state": ["error"],
     "react/iframe-missing-sandbox": ["error"],
     "react/jsx-boolean-value": ["error", "never", { assumeUndefinedIsFalse: false }],
-    "react/jsx-curly-brace-presence": [
-      "error",
-      { children: "never", propElementValues: "never", props: "never" }
-    ],
+    "react/jsx-curly-brace-presence": ["error", "always"], // Syntax highlight
     "react/jsx-filename-extension": [
       "error",
       { allow: "as-needed", extensions: ["jsx", "tsx"], ignoreFilesWithoutCode: true }
