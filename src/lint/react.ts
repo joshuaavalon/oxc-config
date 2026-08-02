@@ -14,7 +14,10 @@ export const react = defineConfig({
     "react/hook-use-state": ["error"],
     "react/iframe-missing-sandbox": ["error"],
     "react/jsx-boolean-value": ["error", "never", { assumeUndefinedIsFalse: false }],
-    "react/jsx-curly-brace-presence": ["error", "always"], // Syntax highlight
+    "react/jsx-curly-brace-presence": [
+      "error",
+      { children: "never", propElementValues: "always", props: "never" }
+    ],
     "react/jsx-filename-extension": [
       "error",
       { allow: "as-needed", extensions: ["jsx", "tsx"], ignoreFilesWithoutCode: true }
@@ -58,7 +61,7 @@ export const react = defineConfig({
     "react/no-unsafe": ["error"],
     "react/no-unstable-nested-components": ["error"],
     "react/no-will-update-set-state": ["error"],
-    "react/only-export-components": ["off"], // HOC false positive
+    "react/only-export-components": ["error"],
     "react/prefer-es6-class": ["off"],
     "react/prefer-function-component": ["error"],
     "react/react-compiler": ["off"],
@@ -71,7 +74,7 @@ export const react = defineConfig({
     "react/void-dom-elements-no-children": ["error"],
     "react-perf/jsx-no-jsx-as-prop": ["error"],
     "react-perf/jsx-no-new-array-as-prop": ["error"],
-    "react-perf/jsx-no-new-function-as-prop": ["error"],
+    "react-perf/jsx-no-new-function-as-prop ": ["error"],
     "react-perf/jsx-no-new-object-as-prop": ["error"]
   }
 });
