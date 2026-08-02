@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.2](https://github.com/joshuaavalon/oxc-config/compare/v1.3.1...v1.3.2) (2026-08-02)
+
+
+### Bug Fixes
+
+* Update dependencies ([cfbf601](https://github.com/joshuaavalon/oxc-config/commit/cfbf6016db77f5850a6ee6501e1163610f56232b))
+* Update react/jsx-curly-brace-presence ([84409e9](https://github.com/joshuaavalon/oxc-config/commit/84409e900f145b0a8a63b1ff25f9aa8c62028ac3))
+
 ## [1.3.1](https://github.com/joshuaavalon/oxc-config/compare/v1.3.0...v1.3.1) (2026-07-24)
 
 
