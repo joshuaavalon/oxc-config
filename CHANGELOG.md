@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.5](https://github.com/joshuaavalon/oxc-config/compare/v1.3.4...v1.3.5) (2026-08-02)
+
+
+### Bug Fixes
+
+* Allow empty fragment ([7377ae7](https://github.com/joshuaavalon/oxc-config/commit/7377ae739977e520bb5f21fb285043a1cd7d0ec2))
+
 ## [1.3.4](https://github.com/joshuaavalon/oxc-config/compare/v1.3.3...v1.3.4) (2026-08-02)
 
 
