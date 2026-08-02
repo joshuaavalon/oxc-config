@@ -33,7 +33,7 @@ export const react = defineConfig({
     "react/jsx-no-script-url": ["error"],
     "react/jsx-no-target-blank": ["error"],
     "react/jsx-no-undef": ["error"],
-    "react/jsx-no-useless-fragment": ["error"],
+    "react/jsx-no-useless-fragment": ["off"],
     "react/jsx-pascal-case": ["error"],
     "react/jsx-props-no-spread-multi": ["error"],
     "react/jsx-props-no-spreading": ["error"],
