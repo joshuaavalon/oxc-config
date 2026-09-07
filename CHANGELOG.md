@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/joshuaavalon/oxc-config/compare/v1.3.5...v1.4.0) (2026-09-07)
+
+
+### Features
+
+* Update react/react-compiler ([5485472](https://github.com/joshuaavalon/oxc-config/commit/54854722f2171f96a406740aa7f7b9ea29f3fac9))
+
 ## [1.3.5](https://github.com/joshuaavalon/oxc-config/compare/v1.3.4...v1.3.5) (2026-08-02)
 
 
