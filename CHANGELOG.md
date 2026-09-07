@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/joshuaavalon/oxc-config/compare/v1.4.0...v1.4.1) (2026-09-07)
+
+
+### Bug Fixes
+
+* react/rule-suppression ([e360fe9](https://github.com/joshuaavalon/oxc-config/commit/e360fe94bdfcd73f549f28b2922cc6efaa450f31))
+
 ## [1.4.0](https://github.com/joshuaavalon/oxc-config/compare/v1.3.5...v1.4.0) (2026-09-07)
 
 
