@@ -81,7 +81,7 @@ export const react = defineConfig({
     "react/void-use-memo": ["error"],
     "react/no-deriving-state-in-effects": ["error"],
     "react/invariant": ["error"],
-    "react//rule-suppression": ["off"],
+    "react/rule-suppression": ["off"],
     "react/syntax": ["off"],
     "react/todo": ["off"],
     "react/capitalized-calls": ["error"],
