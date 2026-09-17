@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/joshuaavalon/oxc-config/compare/v1.4.1...v1.5.0) (2026-09-17)
+
+
+### Features
+
+* **fmt:** Update sortImports ([2c32ff1](https://github.com/joshuaavalon/oxc-config/commit/2c32ff15b8224ebab54d614055a5ed32790b66e2))
+
 ## [1.4.1](https://github.com/joshuaavalon/oxc-config/compare/v1.4.0...v1.4.1) (2026-09-07)
 
 
