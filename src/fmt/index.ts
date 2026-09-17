@@ -50,7 +50,7 @@ const cfg = defineConfig({
       "unknown"
     ],
     ignoreCase: true,
-    internalPattern: ["^~/.+", "^@/.+", "^#.+", "^#.*/.*"],
+    // internalPattern: ["^~/.+", "^@/.+", "^#.+", "^#.*/.*"],
     newlinesBetween: false,
     order: "asc",
     partitionByComment: false,
