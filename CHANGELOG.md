@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/joshuaavalon/oxc-config/compare/v1.5.0...v1.5.1) (2026-09-17)
+
+
+### Bug Fixes
+
+* internalPattern workaround ([e1f7d32](https://github.com/joshuaavalon/oxc-config/commit/e1f7d32d7c3fba81ee93438a7d54d8a96a003834))
+
 ## [1.5.0](https://github.com/joshuaavalon/oxc-config/compare/v1.4.1...v1.5.0) (2026-09-17)
 
 
